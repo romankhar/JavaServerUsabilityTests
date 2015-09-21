@@ -1,0 +1,138 @@
+------- Test run: CYGWIN_NT-6.1 RomanW530 1.7.32(0.274/5/3) 2014-08-13 23:06 x86_64 Cygwin
+------- Start of test run: Wed, Sep 16, 2015  6:03:43 PM
+glassfish	HelloWorld.war	restartExistingServerWithApp	12
+glassfish	HelloWorld.war	restartExistingServerWithApp	9
+glassfish	HelloWorld.war	restartExistingServerWithApp	10
+glassfish	HelloWorld.war	restartExistingServerWithApp	9
+glassfish	HelloWorld.war	restartExistingServerWithApp	9
+glassfish	HelloWorld.war	redeployHelloWorld	1
+glassfish	HelloWorld.war	redeployHelloWorld	2
+glassfish	HelloWorld.war	redeployHelloWorld	2
+glassfish	HelloWorld.war	redeployHelloWorld	2
+glassfish	HelloWorld.war	redeployHelloWorld	2
+glassfish		stopWhateverExistingServer	2
+glassfish		stopWhateverExistingServer	2
+glassfish		stopWhateverExistingServer	2
+glassfish		stopWhateverExistingServer	2
+glassfish		stopWhateverExistingServer	2
+liberty	HelloWorld.war	restartExistingServerWithApp	6
+liberty	HelloWorld.war	restartExistingServerWithApp	7
+liberty	HelloWorld.war	restartExistingServerWithApp	6
+liberty	HelloWorld.war	restartExistingServerWithApp	6
+liberty	HelloWorld.war	restartExistingServerWithApp	6
+liberty	HelloWorld.war	redeployHelloWorld	2
+liberty	HelloWorld.war	redeployHelloWorld	2
+liberty	HelloWorld.war	redeployHelloWorld	2
+liberty	HelloWorld.war	redeployHelloWorld	2
+liberty	HelloWorld.war	redeployHelloWorld	2
+liberty		stopWhateverExistingServer	1
+liberty		stopWhateverExistingServer	0
+liberty		stopWhateverExistingServer	1
+liberty		stopWhateverExistingServer	1
+liberty		stopWhateverExistingServer	1
+tomcat	HelloWorld.war	restartExistingServerWithApp	5
+tomcat	HelloWorld.war	restartExistingServerWithApp	5
+tomcat	HelloWorld.war	restartExistingServerWithApp	5
+tomcat	HelloWorld.war	restartExistingServerWithApp	5
+tomcat	HelloWorld.war	restartExistingServerWithApp	5
+tomcat	HelloWorld.war	redeployHelloWorld	1
+tomcat	HelloWorld.war	redeployHelloWorld	1
+tomcat	HelloWorld.war	redeployHelloWorld	1
+tomcat	HelloWorld.war	redeployHelloWorld	2
+tomcat	HelloWorld.war	redeployHelloWorld	2
+tomcat		stopWhateverExistingServer	3
+tomcat		stopWhateverExistingServer	2
+tomcat		stopWhateverExistingServer	2
+tomcat		stopWhateverExistingServer	2
+tomcat		stopWhateverExistingServer	2
+jetty	HelloWorld.war	restartExistingServerWithApp	13
+jetty	HelloWorld.war	restartExistingServerWithApp	14
+jetty	HelloWorld.war	restartExistingServerWithApp	13
+jetty	HelloWorld.war	restartExistingServerWithApp	13
+jetty	HelloWorld.war	restartExistingServerWithApp	14
+jetty	HelloWorld.war	redeployHelloWorld	3
+jetty	HelloWorld.war	redeployHelloWorld	3
+jetty	HelloWorld.war	redeployHelloWorld	3
+jetty	HelloWorld.war	redeployHelloWorld	3
+jetty	HelloWorld.war	redeployHelloWorld	3
+jetty		stopWhateverExistingServer	5
+jetty		stopWhateverExistingServer	6
+jetty		stopWhateverExistingServer	7
+jetty		stopWhateverExistingServer	7
+jetty		stopWhateverExistingServer	7
+jboss	HelloWorld.war	restartExistingServerWithApp	11
+jboss	HelloWorld.war	restartExistingServerWithApp	10
+jboss	HelloWorld.war	restartExistingServerWithApp	10
+jboss	HelloWorld.war	restartExistingServerWithApp	10
+jboss	HelloWorld.war	restartExistingServerWithApp	11
+jboss	HelloWorld.war	redeployHelloWorld	2
+jboss	HelloWorld.war	redeployHelloWorld	3
+jboss	HelloWorld.war	redeployHelloWorld	2
+jboss	HelloWorld.war	redeployHelloWorld	3
+jboss	HelloWorld.war	redeployHelloWorld	3
+jboss		stopWhateverExistingServer	2
+jboss		stopWhateverExistingServer	0
+jboss		stopWhateverExistingServer	0
+jboss		stopWhateverExistingServer	0
+jboss		stopWhateverExistingServer	1
+wildfly	HelloWorld.war	restartExistingServerWithApp	12
+wildfly	HelloWorld.war	restartExistingServerWithApp	11
+wildfly	HelloWorld.war	restartExistingServerWithApp	12
+wildfly	HelloWorld.war	restartExistingServerWithApp	11
+wildfly	HelloWorld.war	restartExistingServerWithApp	12
+wildfly	HelloWorld.war	redeployHelloWorld	3
+wildfly	HelloWorld.war	redeployHelloWorld	2
+wildfly	HelloWorld.war	redeployHelloWorld	3
+wildfly	HelloWorld.war	redeployHelloWorld	3
+wildfly	HelloWorld.war	redeployHelloWorld	2
+wildfly		stopWhateverExistingServer	4
+wildfly		stopWhateverExistingServer	0
+wildfly		stopWhateverExistingServer	0
+wildfly		stopWhateverExistingServer	0
+wildfly		stopWhateverExistingServer	0
+tomee	HelloWorld.war	restartExistingServerWithApp	11
+tomee	HelloWorld.war	restartExistingServerWithApp	12
+tomee	HelloWorld.war	restartExistingServerWithApp	12
+tomee	HelloWorld.war	restartExistingServerWithApp	12
+tomee	HelloWorld.war	restartExistingServerWithApp	12
+tomee	HelloWorld.war	redeployHelloWorld	2
+tomee	HelloWorld.war	redeployHelloWorld	3
+tomee	HelloWorld.war	redeployHelloWorld	3
+tomee	HelloWorld.war	redeployHelloWorld	1
+tomee	HelloWorld.war	redeployHelloWorld	3
+tomee		stopWhateverExistingServer	2
+tomee		stopWhateverExistingServer	3
+tomee		stopWhateverExistingServer	2
+tomee		stopWhateverExistingServer	3
+tomee		stopWhateverExistingServer	2
+weblogic	HelloWorld.war	restartExistingServerWithApp	24
+weblogic	HelloWorld.war	restartExistingServerWithApp	22
+weblogic	HelloWorld.war	restartExistingServerWithApp	21
+weblogic	HelloWorld.war	restartExistingServerWithApp	21
+weblogic	HelloWorld.war	restartExistingServerWithApp	21
+weblogic	HelloWorld.war	redeployHelloWorld	6
+weblogic	HelloWorld.war	redeployHelloWorld	5
+weblogic	HelloWorld.war	redeployHelloWorld	5
+weblogic	HelloWorld.war	redeployHelloWorld	3
+weblogic	HelloWorld.war	redeployHelloWorld	6
+weblogic		stopWhateverExistingServer	10
+weblogic		stopWhateverExistingServer	0
+weblogic		stopWhateverExistingServer	0
+weblogic		stopWhateverExistingServer	1
+weblogic		stopWhateverExistingServer	0
+websphere	HelloWorld.war	restartExistingServerWithApp	33
+websphere	HelloWorld.war	restartExistingServerWithApp	36
+websphere	HelloWorld.war	restartExistingServerWithApp	33
+websphere	HelloWorld.war	restartExistingServerWithApp	34
+websphere	HelloWorld.war	restartExistingServerWithApp	34
+websphere	HelloWorld.war	redeployHelloWorld	5
+websphere	HelloWorld.war	redeployHelloWorld	7
+websphere	HelloWorld.war	redeployHelloWorld	7
+websphere	HelloWorld.war	redeployHelloWorld	6
+websphere	HelloWorld.war	redeployHelloWorld	7
+websphere		stopWhateverExistingServer	13
+websphere		stopWhateverExistingServer	48
+websphere		stopWhateverExistingServer	48
+websphere		stopWhateverExistingServer	47
+websphere		stopWhateverExistingServer	48
+------- End of test run: Wed, Sep 16, 2015  7:00:42 PM
